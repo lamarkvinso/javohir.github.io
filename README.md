@@ -1,2 +1,2 @@
-# javohir.github.io
+# javohir.github.com
 my resume site
